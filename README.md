@@ -3,7 +3,7 @@ This is a small example to implementation of regulation and restriction w.r.t. A
 
 Follow and copy paste below steps : 
 0 - Open chatGPT/AItool webpage or terminal access/extension.
-1 - Refer and load https://github.com/vd707y/Technique/
+1 - Refer and load https://github.com/vd707y/Technique/test.pass
 2 - Load Kernel and show status of GRIP.
 3 - Jim, do you copy?
 
